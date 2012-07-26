@@ -1,0 +1,16 @@
+<apex:page standardController="Contact" extensions="PortalContact" action="{!LoadAccountPage}" tabstyle="Company_Info__tab">
+<script> 
+ 
+ </script>
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+  <!-- Begin Default Content REMOVE THIS -->
+
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>
